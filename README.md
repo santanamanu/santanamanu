@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santanamanu
 - 👀 I’m interested in science 
-- 🌱 I’m currently learning git
+- 🌱 I’m currently learning git and github
 - 📫 How to reach me: linkedin 
 
 <!---
