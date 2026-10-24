@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @santanamanu
-- 👀 I’m interested in science 
-- 🌱 I’m currently learning git and github
-- 📫 How to reach me: linkedin 
+- 👀 I’m a biologist focused in bioinformatics and curious about everything
+- 📫 How to reach me: santanamanu2001@gmail.com 
 
 <!---
 santanamanu/santanamanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
